@@ -1,4 +1,4 @@
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 [happypho-sumnoodles] 
 
 This software is free for personal use only.
 
@@ -13,6 +13,6 @@ You ARE allowed to:
 - Modify it for personal use
 - Share it with others (keeping this license intact)
 
-For commercial use or licensing inquiries, contact: [your email]
+For commercial use or licensing inquiries, contact: [velvetrust112@outlook.com]
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
