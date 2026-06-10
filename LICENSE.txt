@@ -1,0 +1,18 @@
+Copyright (c) 2026 [Your Name]
+
+This software is free for personal use only.
+
+You are NOT allowed to:
+- Claim this software as your own
+- Sell this software or any modified version
+- Distribute without proper credit
+- Remove or alter this copyright notice
+
+You ARE allowed to:
+- Use this software for personal use
+- Modify it for personal use
+- Share it with others (keeping this license intact)
+
+For commercial use or licensing inquiries, contact: [your email]
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
