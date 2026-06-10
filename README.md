@@ -8,7 +8,7 @@ Go to **Releases** section to download `AutoFisher.exe`
 ## Instructions
 1. Download `AutoFisher.exe`
 2. Create a `templates` folder next to the .exe
-3. Add your animal PNGs to the templates folder
+3. Add  PNGs to the templates folder
 4. Run `AutoFisher.exe`
 5. Press F6 to start, F8 to lock mouse
 
